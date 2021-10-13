@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186420532778",
+    "project_id": "hunger-750b9",
+    "storage_bucket": "hunger-750b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186420532778:android:1f0b2b16c24c93837d9553",
+        "android_client_info": {
+          "package_name": "com.example.anndaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186420532778-8498ska7s6canu3kaupinb8jgf52umu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbF_q9tH6C_gMaPB52Dr9hFEB0dJX3QWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186420532778-8498ska7s6canu3kaupinb8jgf52umu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
